@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+.brand-header{
+    border-bottom: 3px solid black;
+}
+.brand{
+    font-family: "Snell Roundhand";
+    font-weight: normal;
+    font-size: 60px;
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+    border-bottom: 3px solid black;
+    border-left: 1px solid black;
+}
+.story {
+    border-right: 1px solid black;
+    padding: 0 10px;
+}
+
+.quarter{
+    width: 25%;
+}
+
+.half{
+    width: 50%;
+}
+
+.three-quarter{
+    width: 75%;
+}
+.article-title{
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+}
+.article-img{
+    width: 100%;
+}
+
+.other-sections{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+.site-section{
+    display: flex;
+    align-items: center;
+    flex: 1;
+}
+
+.site-section-politics{
+    background-color: #ffeaa7;
+}
+
+.site-section-technology{
+    background-color: #81ecec;
+}
+.site-section-local{
+    background-color: #55efc4;
+}
+
+.site-section-opinion{
+    background-color: #74b9ff;
+}
+
+.site-section-sports{
+    background-color: #a29bfe;
+}
+
+.section-link{
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 30px;
+    font-weight: bold;
+    font-family: "Futura";
+    color: #666;
+}

@@ -1,0 +1,135 @@
+({
+  "mode": "PAUSE",
+  "id": 90125264,
+  "version": "1.1",
+  "owner": 19670022,
+  "edited": "2020-10-19T15:16:00+02:00",
+  "schema": { "name": "boat-dock", "version": "0.0.11" },
+  "occurred": "2020-10-19T15:16:07.097862+02:00",
+  "history": [],
+  "data": {
+    "disposed": false,
+    "anonymous": false,
+    "title": "Båtplasser til leie på helårsbasis Ytrebygbsvegen 37",
+    "images": [
+      {
+        "width": 575,
+        "uri": "2017/10/vertical-4/17/4/901/252/64_1944879196.jpg",
+        "height": 321
+      }
+    ],
+    "price": 11000,
+    "width": 300,
+    "description": "Helårsplasser i rolig havn på Søreide leies ut.Priser fra 11000,-   + eventuelt strøm.Hver bås har ett eget uttak med minusmåler.Her kan du bruke båten hele året.Ta kontakt for en uforpliktende befaring.",
+    "situation": "Søreide"
+  }
+},
+{
+  "mode": "PAUSE",
+  "id": 185463798,
+  "version": "1.1",
+  "owner": 1852658912,
+  "edited": "2020-10-19T15:16:00+02:00",
+  "schema": { "name": "boat-sale", "version": "0.0.15" },
+  "occurred": "2020-10-19T15:16:07.134792+02:00",
+  "history": [],
+  "data": {
+    "disposed": true,
+    "anonymous": false,
+    "title": "Yamarin 80 DC med Yamaha F350. Spekket med utstyr .",
+    "images": [
+      {
+        "height": 570,
+        "width": 1000,
+        "uri": "2020/7/vertical-0/21/8/185/463/798_1786759863.jpg"
+      },
+      {
+        "height": 3024,
+        "width": 4032,
+        "uri": "2020/7/vertical-0/21/8/185/463/798_440556103.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1829875435.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1486143299.jpg"
+      },
+      {
+        "height": 3024,
+        "width": 4032,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_457699832.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1585695051.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1819384637.jpg"
+      },
+      {
+        "height": 3024,
+        "width": 4032,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_991380710.jpg"
+      },
+      {
+        "height": 3024,
+        "width": 4032,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1492120593.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_103905818.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1198578531.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1540846215.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1148210969.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_1158429175.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_944855860.jpg"
+      },
+      {
+        "height": 4032,
+        "width": 3024,
+        "uri": "2020/7/vertical-0/25/8/185/463/798_229233726.jpg"
+      }
+    ],
+    "year": 2012,
+    "description": "En av de råeste og mest solgte daycruiseren på 26 fot. Lekker design og veldig gode kjøreegenskaper.<br />Båten er spekket med utstyr.<br />Båten er over 8 meter og man trenger ikke bruke vest nå man er i båten.<br />Motoren har hatt regelmessig service av autorisert verksted. <br />Båten er meget godt vedlikeholdt og i topp stand.",
+    "make": "yamarin",
+    "model": "80DC",
+    "class": "DAYCRUISER",
+    "length": 26,
+    "width": 260,
+    "material": "glass_fibre",
+    "equipment_tmp": "EKSTRAUTSTYR\r\n• Ankervinsj med syrefast bruceanker\r\n• Garmin kartplotter \r\n• Wallas varmeapparat\r\n• Dusj på badeplattform\r\n• Fusjon Marine DAB radio med høyttalere\r\n• Havnekalesje\r\n• Fendere og tauverk",
+    "price": 640000,
+    "max_speed": 45,
+    "motor_included": true
+  }
+})
