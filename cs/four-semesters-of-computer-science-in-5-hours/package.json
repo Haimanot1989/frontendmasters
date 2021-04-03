@@ -1,0 +1,22 @@
+{
+  "name": "four-semesters-of-computer-science-in-5-hours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Haimanot1989/frontendmasters.git"
+  },
+  "author": "haimanot1989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haimanot1989/frontendmasters/issues"
+  },
+  "homepage": "https://github.com/Haimanot1989/frontendmasters#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
